@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 33
 
-    namespace "com.flutter_handle_file"
+    namespace "fr.bonamy.handlefile"
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
